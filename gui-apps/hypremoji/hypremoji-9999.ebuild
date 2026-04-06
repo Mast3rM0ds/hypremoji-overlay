@@ -3,8 +3,8 @@ EAPI=8
 inherit cargo git-r3
 
 DESCRIPTION="A modern emoji picker for Hyprland, written in Rust + GTK4"
-HOMEPAGE="https://github.com/Musagy/hypremoji"
-EGIT_REPO_URI="https://github.com/Musagy/hypremoji"
+HOMEPAGE="https://github.com/Mast3rM0ds/hypremoji"
+EGIT_REPO_URI="https://github.com/Mast3rM0ds/hypremoji"
 
 LICENSE="ISC"
 SLOT="0"
